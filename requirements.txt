@@ -1,0 +1,11 @@
+gradio
+openai-whisper
+ffmpeg-python
+pyannote-audio
+numpy==1.21.0
+torch==2.0.0
+Pillow
+opencv-python
+torchvision
+torchaudio
+pyaudio
